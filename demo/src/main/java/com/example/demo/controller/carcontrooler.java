@@ -1,4 +1,4 @@
-//this is a restmap controller
+//this is aestmap controller
 package com.example.demo.controller;
 
 import com.example.demo.model.CARS;
