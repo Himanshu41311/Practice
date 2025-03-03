@@ -1,4 +1,4 @@
-// model for cars
+// model for car
 package com.example.demo.model;
 
 import jakarta.persistence.Entity;
